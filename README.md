@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @junrongz
-- 👀 I’m interested in 
+- 👀 I’m interested in Coding, Data Analysis, Hiking, and Restaurant Hunting
 - 🌱 I’m currently learning Data Science, Machine Learning, and Cloud Computing
 - 📫 Let's [connect](www.linkedin.com/in/junrong-zhu)! 
 
